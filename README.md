@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>Proje README</title>
 </head>
 <body>
 <h1>🌟 Türkçe Karakter Destekli Python Modülü</h1>
