@@ -19,7 +19,7 @@
 
 <h2>💡 Örnek Kullanım</h2>
 <pre>
-import tr_char
+import syntax-code
 
 metin = "Merhaba {i}nsan, nas{ı}ls{ı}n? {c}ok g{ü}zel!"
 print(tr_char.tr(metin))
